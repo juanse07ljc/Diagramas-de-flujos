@@ -2,7 +2,7 @@
 ## ejercicio B: ![EJERCICIO B](https://github.com/user-attachments/assets/a0102773-3673-4e5e-a126-6d616b00ff7b)
 ## ejercicio D: ![EJERCICIO D](https://github.com/user-attachments/assets/ff7f42e4-03a3-43e2-b584-12b5dada06c4)
 
-
+## Otros ejercicios
 ## Ejercicio I
 ![EJERCICIO 1](https://github.com/user-attachments/assets/ba361493-91d6-4672-b7be-0b8133705c2f) 
 ## Ejercicio II
