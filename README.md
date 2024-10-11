@@ -8,3 +8,8 @@
 ![EJERCICIO 4](https://github.com/user-attachments/assets/f5246009-4ebe-492d-ba3a-23f74a843e43)
 ## Ejercicio V
 ![EJERCICIO 5](https://github.com/user-attachments/assets/fde8bc58-9583-4cb7-8494-ea633275c1ff)
+
+# Ejercicios 8 de octubre
+## ejercicio B: ![EJERCICIO B](https://github.com/user-attachments/assets/a0102773-3673-4e5e-a126-6d616b00ff7b)
+## ejercicio D: ![EJERCICIO D](https://github.com/user-attachments/assets/ff7f42e4-03a3-43e2-b584-12b5dada06c4)
+
